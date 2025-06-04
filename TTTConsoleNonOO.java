@@ -62,7 +62,9 @@ public class TTTConsoleNonOO {
             }
         }
         currentPlayer = CROSS;   // cross plays first
-        currentState  = PLAYING; // ready to play
+        currentState  = PLAYING;
+        int a = 2;
+        int b = 4;// ready to play
     }
 
     /** The currentPlayer makes one move (one step).
