@@ -65,6 +65,7 @@ public class TTTConsoleNonOO {
         currentState  = PLAYING;
         int a = 2;
         int b = 4;// ready to play
+        int c = 6;
     }
 
     /** The currentPlayer makes one move (one step).
